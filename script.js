@@ -13,3 +13,5 @@ let rectangle = {
 }
 
 rectangle.displayInfo()
+
+console.log("hello world");
