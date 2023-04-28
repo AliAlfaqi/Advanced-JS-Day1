@@ -14,4 +14,4 @@ let rectangle = {
 
 rectangle.displayInfo()
 
-console.log("aloha there");
+console.log("aloha there!!!!!");
